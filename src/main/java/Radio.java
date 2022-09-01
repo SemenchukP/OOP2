@@ -31,17 +31,11 @@ public class Radio {
         return maxRadioStation;
     }
 
-    public void setMaxRadioStation(int maxRadioStation) {
-        this.maxRadioStation = maxRadioStation;
-    }
 
     public int getMinRadioStation() {
         return minRadioStation;
     }
 
-    public void setMinRadioStation(int minRadioStation) {
-        this.minRadioStation = minRadioStation;
-    }
 
     public int getCurrentRadioStation() {
         return currentRadioStation;
